@@ -1,0 +1,3 @@
+displayName = Supernova Music
+author = KoekMeneer, The EIven FeIIow
+version = 0.1
