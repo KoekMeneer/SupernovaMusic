@@ -3,7 +3,7 @@ Mods: {
 		ModSupport: {
 			MusicDisplay: {
 				SongNames: {
-					HarbingerOfAnnihilation: anomaly
+					HarbingerOfAnnihilation: Anomaly
 					FlyingTerror: Nyctophobia
 				}
 
