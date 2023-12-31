@@ -1,1 +1,5 @@
-Adds music for the Supernova mod
+This mods adds the Supernova Mod soundtrack.
+It is intended to use this mod alongside the Supernova Mod.
+
+For the Supernova content (e.g. items, bossess, and more) subscribe to the main mod:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2934697274
