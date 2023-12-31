@@ -1,0 +1,14 @@
+Mods: {
+	SupernovaMusic: {
+		ModSupport: {
+			MusicDisplay: {
+				SongNames: {
+					HarbingerOfAnnihilation: anomaly
+					FlyingTerror: Nyctophobia
+				}
+
+				Authors.theexiiedfeiiow: by The ExiIed FeIIow
+			}
+		}
+	}
+}
